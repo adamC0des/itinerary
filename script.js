@@ -1,11 +1,11 @@
 const tasks = [
     "1.) Chef special for lunch",
     "2.) 45 minute full body massage",
-    "3.) Couples relaxation",
+    "3.) Time together",
     "4.) Getting glammed",
     "5.) Dinner with my cute girlfriend",
     "6.) Post dinner stargazing (weather permitting)",
-    "7.) Night time unwind with special activity",
+    "7.) Shower and then activity",
     "8.) Have the best sleep cuddled up"
 ];
 
