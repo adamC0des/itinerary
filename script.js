@@ -3,7 +3,7 @@ const tasks = [
     "2.) 45 minute full body massage",
     "3.) Time together",
     "4.) Getting glammed",
-    "5.) Dinner with my cute girlfriend",
+    "5.) 8 p.m. reservation for your favorite food",
     "6.) Post dinner stargazing (weather permitting)",
     "7.) Shower and then activity",
     "8.) Have the best sleep cuddled up"
